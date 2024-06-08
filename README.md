@@ -19,7 +19,7 @@ Each phase in the Software Development Life Cycle is essential for delivering hi
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-Waterfall model is a sequential design process in which progress is seen as flowing steadily downwards (like a waterfall) through the phases of Analysis, Design, Implementation, Testing, and Maintenance. Agile software development refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams.
+Waterfall model is a sequential design process in which progress is seen as flowing steadily downwards (like a waterfall) through the phases of Analysis, Design, Implementation, Testing, and Maintenance. Agile software development refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. The main difference is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project.
 
 Requirements Engineering:
 
