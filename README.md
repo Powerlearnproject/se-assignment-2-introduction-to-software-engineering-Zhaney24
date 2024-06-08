@@ -10,12 +10,16 @@ Define Software Engineering:
 
 What is software engineering, and how does it differ from traditional programming?
 Software engineering is a systematic approach to designing, developing, testing and maintaining. In traditional engineering fields, there are established design principles and best practices that must be followed to ensure that systems are safe and reliable. In contrast, software engineering is often driven by individual creativity and innovation
+
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+Each phase in the Software Development Life Cycle is essential for delivering high-quality software products.                   1. Requirements - this is when we gather and document user needs and system requirements. 2. Design - creating high-level and detailed design of the software architecture and user interface. 3. Implementation - writing the code and building the software according to the design. 4. Testing - for quality standards and functional requirements, various tests need to be done. 5. Deployment - this is when you release the software to the user. 6. Maintenance - this provides ongoing support, updates and enhancement to the software.
+
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
