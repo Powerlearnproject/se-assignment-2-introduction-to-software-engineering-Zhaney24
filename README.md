@@ -45,9 +45,11 @@ Software project management is the process of planning and leading software proj
 Software Maintenance:
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Software maintenance is the process of changing, modifying, and updating software to keep up with user needs. Preventive maintenance – includes regular and periodic (time-based) schedules. Corrective maintenance – occurs when an issue is noticed. Predetermined maintenance – follows a factory schedule. Condition-based maintenance – occurs when a situation or condition indicates maintenance is needed. Without maintenance, any software will be obsolete and essentially useless over time. All software companies should have a specific strategy in place to tackle software maintenance in an effective and complete manner. 
 Ethical Considerations in Software Engineering:
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
