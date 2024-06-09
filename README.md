@@ -19,11 +19,13 @@ Each phase in the Software Development Life Cycle is essential for delivering hi
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-Waterfall model is a sequential design process in which progress is seen as flowing steadily downwards (like a waterfall) through the phases of Analysis, Design, Implementation, Testing, and Maintenance. Agile software development refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. The main difference is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project.
+Waterfall model is a sequential design process in which progress is seen as flowing steadily downwards (like a waterfall) through the phases of Analysis, Design, Implementation, Testing, and Maintenance. Agile software development refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. The main difference is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project. Waterfall is a better method when a project must meet strict regulations as it requires deliverables for each phase before proceeding to the next one. Alternatively, Agile is better suited for teams that plan on moving fast, experimenting with direction and don't know how the final project will look before they start.
 
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+Requirements engineering is the area of systems engineering that deals with the process of developing and verifying the system requirements. it's one of the first things to do when following the Software development lifecycle whereby it's crucial to gather and document user needs and system requirements.
+
 Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
