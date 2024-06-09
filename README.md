@@ -37,6 +37,7 @@ Testing is crucial to ensure that the quality standards and functional requireme
 Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+Version control systems are software tools that help software teams manage changes to source code over time. The Version Control System helps manage the source code for the software team by keeping track of all the code modifications. It also protects the source code from any unintended human error and consequences, that's why they are important. examples include Git, Helix Core, mercurial and more.
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
