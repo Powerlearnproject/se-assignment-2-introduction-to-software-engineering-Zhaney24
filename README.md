@@ -41,6 +41,7 @@ Version control systems are software tools that help software teams manage chang
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+Software project management is the process of planning and leading software projects. It is a sub-discipline of project management in which software projects are planned, implemented, monitored and controlled. some challenges are Defining project objectives and goals, Resource Management, Group Leadership, Risk management, Communication and stakeholder management. some of the challenges include, Misalignment Between Goals and Business Objectives. One of the most common challenges affecting project teams is misalignment between project goals and business objectives, Communication, Lack of Accountability, Resource Allocation
 Software Maintenance:
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
