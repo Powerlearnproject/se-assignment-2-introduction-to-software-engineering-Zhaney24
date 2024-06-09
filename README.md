@@ -29,10 +29,11 @@ Requirements engineering is the area of systems engineering that deals with the 
 Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
-Modularity is a fundamental design principle in software engineering aimed at creating software in a way that minimizes dependencies among the components of a system. This helps to localize the impact of changes, simplifies maintenance, and enhances the understandability of the system.
+Modularity is a fundamental design principle in software engineering aimed at creating software in a way that minimizes dependencies among the components of a system. This helps to localize the impact of changes, simplifies maintenance, and enhances the understandability of the system. Modularity allows for a deduction of service costs by grouping components based on similiary and dependency, making it easier to perform repair and maintenance. By breaking down the software into independent modules, you can more easily adapt, extend, or replace parts of the system without affecting others (this greatly enhances scalability).
 Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+Testing is crucial to ensure that the quality standards and functional requirements are met, There are different levels of testing, let me unpack them. 1. Unit testing - this tests individual components of software. 2. Integration testing - Testing interactions between different components or subsystems. 3. System testing - this tests the entire software system as a whole. 4. Acceptance testing - testing the software against user requirements to ensure it meets user needs.
 Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
